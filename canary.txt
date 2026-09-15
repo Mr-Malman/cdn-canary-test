@@ -1,0 +1,17 @@
+PIVOT Security — CDN Validation Canary
+======================================
+Marker:       PIVOT-CDN-TEST-9E5582D6D8CF
+Generated:    2026-09-15 17:10:28 UTC
+Organization: PIVOT Security
+Purpose:      Zscaler ZIA CDN passthrough validation
+
+This is a non-malicious test file used to validate
+whether specific CDN/cloud storage endpoints are
+accessible through enterprise web security gateways.
+
+If you are a security analyst reviewing this file:
+  - This file is part of an authorized security assessment
+  - Contact: dhruv@pivotsec.in
+  - No malicious content is present
+
+SHA256 of this file can be verified against the marker above.
